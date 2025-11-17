@@ -26,10 +26,6 @@
   <img src="https://skillicons.dev/icons?i=go,cpp,c,linux,docker,kubernetes" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;No+matter+where+you+go,+everyone+is+connected&center=true&size=26">
-</h1>
-
 ---
 
 ## 🔧 Tech Stack
