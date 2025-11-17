@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm reschen 👋</h1>
 
 <p align="center">
-  <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to my github; No matter where you go, everyone is connected" !&center=true&size=27"> </a> </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;No+matter+where+you+go,+everyone+is+connected&center=true&size=26">
+</h1>
 </p>
 
 <p align="center">
