@@ -28,9 +28,11 @@ jobs:
           cp dist/github-contribution-grid-snake.svg assets/
           cp dist/github-contribution-grid-snake.gif assets/
 
-      - name: Commit and push
+      - name: Commit and push (as bot)
         uses: EndBug/add-and-commit@v9
         with:
           add: "assets"
-          message: "Update GitHub contribution snake"
+          message: "chore: update contribution snake"
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
           push: true
